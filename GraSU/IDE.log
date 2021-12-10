@@ -1,0 +1,36 @@
+16:48:53 INFO  : Launching XSCT server: xsct -n  -interactive /home/huao/Documents/pma_old/temp_xsdb_launch_script.tcl
+16:48:57 INFO  : XSCT server has started successfully.
+16:48:57 INFO  : Successfully done setting XSCT server connection channel  
+16:48:57 INFO  : plnx-install-location is set to ''
+16:48:57 INFO  : Successfully done setting workspace for the tool. 
+16:48:57 INFO  : Successfully done query RDI_DATADIR 
+16:48:57 INFO  : Registering command handlers for Vitis TCF services
+17:05:04 INFO  : Launching executable: Emulation-SW/pma ../binary_container_1.xclbin
+/space1/huao_data/pma_dataset/sx-askubuntu.txt
+/space1/huao_data/pma_result_bak/sx-askubuntu.txt
+17:05:18 INFO  : Launching executable: Emulation-SW/pma ../binary_container_1.xclbin
+/space1/huao_data/pma_dataset/sx-askubuntu.txt
+/space1/huao_data/pma_result_bak/sx-askubuntu.txt
+17:09:47 INFO  : Launching executable: Emulation-SW/pma ../binary_container_1.xclbin
+/space1/huao_data/pma_dataset/sx-askubuntu.txt
+/space1/huao_data/pma_result_bak/sx-askubuntu.txt
+17:10:43 INFO  : Launching executable: Emulation-SW/pma ../binary_container_1.xclbin
+/space1/huao_data/pma_dataset/sx-askubuntu.txt
+/space1/huao_data/pma_result_bak/sx-askubuntu.txt
+17:11:05 INFO  : Launching executable: Emulation-SW/pma ../binary_container_1.xclbin
+/space1/huao_data/pma_dataset/sx-askubuntu.txt
+/space1/huao_data/pma_result_bak/sx-askubuntu.txt
+15:21:03 INFO  : Launching XSCT server: xsct -n  -interactive /home/huao/Documents/pma_old/temp_xsdb_launch_script.tcl
+15:21:06 INFO  : XSCT server has started successfully.
+15:21:06 INFO  : Successfully done setting XSCT server connection channel  
+15:21:06 INFO  : plnx-install-location is set to ''
+15:21:06 INFO  : Successfully done setting workspace for the tool. 
+15:21:09 INFO  : Successfully done query RDI_DATADIR 
+15:21:09 INFO  : Registering command handlers for Vitis TCF services
+15:27:34 INFO  : Launching XSCT server: xsct -n  -interactive /home/huao/Downloads/pma/temp_xsdb_launch_script.tcl
+15:27:37 INFO  : XSCT server has started successfully.
+15:27:37 INFO  : plnx-install-location is set to ''
+15:27:37 INFO  : Successfully done setting XSCT server connection channel  
+15:27:37 INFO  : Successfully done setting workspace for the tool. 
+15:27:37 INFO  : Successfully done query RDI_DATADIR 
+15:27:38 INFO  : Registering command handlers for Vitis TCF services
